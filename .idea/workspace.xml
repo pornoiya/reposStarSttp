@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ac6f203f-d18a-4f21-b7b2-160455508a0d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1dEIrruFVABn3ujQZFFHdF5ks8w" />
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.main (1)">
+    <configuration name="main (1)" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="main" />
+      <module name="reposStarSttp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="reposStar.main" />
+      <module name="reposStarSttp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="reposStar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.main (1)" />
+        <item itemvalue="Application.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="reposStarSttp" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="reposstarsttp [file:/C:/Scala/reposStarSttp/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="reposStarSttp-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3183969578931" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="1014769473" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1916534729" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../assignment01" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../assignment02_traits" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../assignment03" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../assignment04_typeclasses" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../assignment05" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../assignment06_future" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../assignment07" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../assignment08" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../assignment09" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../lection6_live" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac6f203f-d18a-4f21-b7b2-160455508a0d" name="Default Changelist" comment="" />
+      <created>1591984027543</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591984027543</updated>
+    </task>
+    <servers />
+  </component>
+</project>
